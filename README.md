@@ -3,6 +3,7 @@ Pushpin prometheus metrics exporter
 
 ####
 Push metrics to pushgateway and scrape using prometheus
+Update the host name, port, and basic authentication config in file.
 
 ### Installation
 
