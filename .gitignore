@@ -1,0 +1,11 @@
+venv
+*.pyc
+.DS_Store
+dist
+dist.tar.gz
+dump.rdb
+*.egg-info
+*.sock
+*.log
+client/web/node_modules
+.idea
